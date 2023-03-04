@@ -1,6 +1,6 @@
 # Sentiment_Analysis
-Sentiment analysis Using RNN , LSTM and Transformfer
-### Start Machine Learning project.
+#### Sentiment analysis Using RNN , LSTM and Transformfer
+### Start Basic Machine Learning project.
 
 ### Software and account Requirement.
 
